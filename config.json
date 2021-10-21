@@ -1,0 +1,5 @@
+{
+    "token": "BOT TOKEN",
+    "prefix": "PREFIX",
+    "mongooseConnectionString": "MONGODB DATABASE URI, NOT REQUIRED"
+}
